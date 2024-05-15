@@ -12,5 +12,6 @@ public class i05PracticeProblem {
             f++;
         }
         System.out.println(f);
+        
     }
 }
